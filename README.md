@@ -2,7 +2,7 @@
 通过配置，检测IPv4或IPv6 地址或域名 是否是通的
 
 * 下载原代码
-<pre> #git clone https://github.com/leapv6/pinger.git </pre>
+<pre> #git clone https://github.com/leapv6/pinger </pre>
 * 修改检测配置 
 <pre> #cd pinger; vi ip.txt2 </pre>
 * 定时检测
